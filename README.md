@@ -1,6 +1,8 @@
 ### Proyecto de Aplicación del Clima
 Este proyecto es una aplicación del clima que utiliza la API de OpenWeatherMap para obtener datos del clima en tiempo real.
 
+### Deploy 
+
 ### Estructura del Proyecto
 El proyecto consta de varios archivos que se encargan de diferentes aspectos de la aplicación:
 
