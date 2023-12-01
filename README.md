@@ -3,6 +3,7 @@
 Este proyecto es una aplicación del clima que utiliza la API de OpenWeatherMap para obtener datos del clima en tiempo real. Puedes ver la aplicación en funcionamiento aquí.
 
 [Ver la Aplicación del Clima](https://aplicacion-clima-react-js.netlify.app/)
+[Ver la Aplicación del Clima con Material UI](https://aplicacion-clima-react-material-js.netlify.app/)
 
 ### Estructura del Proyecto
 
